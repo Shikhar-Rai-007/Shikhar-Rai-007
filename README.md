@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikhar Rai
-- 👀 I’m interested in Android Development And Open Source
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Android Development and Machine Learning
+- 👀 I’m interested in JavaScript And It's Frameworks And Open Source
+- 🌱 I’m currently learning JavaScript Development
+- 💞️ I’m looking to collaborate on JavaScript Development and Machine Learning
 - 📫 How to reach me tonyrai426@gmail.com
 
 <!---
