@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shikhar-rai-007" alt="shikhar-rai-007" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,Node.JS**
+- 🌱 I’m currently learning **Javascript,React and Node.JS**
 
 - 💬 Ask me about **Data Structures, Algorithms, Machine Learning and Artificial Intelligence**
 
